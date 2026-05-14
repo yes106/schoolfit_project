@@ -1,4 +1,5 @@
 # schoolfit_project
+## Python 기반 데이터 분석 및 AI 운동 추천 시스템 프로젝트
 Data analysis project - PAPS schoolfit
 
 서울시 중학생 PAPS 데이터와 청소년건강행태조사 데이터를 활용하여
